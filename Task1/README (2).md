@@ -6,10 +6,6 @@
 
 <font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
-Click on the following link to checkout the colab file.
-
-
----
 
 ## Problem Statement
 
