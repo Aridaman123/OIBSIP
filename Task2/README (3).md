@@ -1,16 +1,9 @@
 # Car Price Prediction with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
 ![MasterHead](https://img.freepik.com/free-vector/car-showroom-center-with-autos-exhibition-inside-automobile-dealership-store-shop-interior-new-modern-vehicles-models-demonstration-sale-trading_575670-1511.jpg?w=826&t=st=1699422007~exp=1699422607~hmac=3b2f5d6b9a8a9a9d789b029b73ea0744c0dfebbf1a78a9a89b775c6167ee943e)
 
 <font size="1">Image Courtesy: https://img.freepik.com/free-vector/car-showroom-center-with-autos-exhibition-inside-automobile-dealership-store-shop-interior-new-modern-vehicles-models-demonstration-sale-trading_575670-1511.jpg?w=826&t=st=1699422007~exp=1699422607~hmac=3b2f5d6b9a8a9a9d789b029b73ea0744c0dfebbf1a78a9a89b775c6167ee943e</font>
 
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1n4thlpzHBQJe5JXhfyZ6SpRu20KDksWJ?usp=sharing)
-
-
----
 
 ## Problem Statement
 
@@ -100,13 +93,3 @@ The insights provide a holistic understanding of the factors influencing car pri
 
 This project has not only equipped us with valuable data science skills but has also deepened our understanding of car pricing, making it a significant step in the field of data science and machine learning.
 
----
-
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
