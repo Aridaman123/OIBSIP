@@ -1,13 +1,12 @@
 # Iris Flower Classification
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
 <font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
 Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
 
 
 ---
@@ -78,13 +77,4 @@ In the Iris flower classification project, the tuned Random Forest model has bee
 
 In conclusion, the Iris flower classification project successfully employed Random Forest (tuned) as the final prediction model to classify Iris species. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
 
----
 
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference#
- - [Oasis Infobyte](https://oasisinfobyte.com/)
